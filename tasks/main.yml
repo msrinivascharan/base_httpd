@@ -1,0 +1,6 @@
+---
+# tasks file for base_httpd
+
+- include_tasks: httpd.yaml
+
+
